@@ -1,4 +1,5 @@
-Задание 1.![Снимок экрана 2024-03-25 в 17 31 51](https://github.com/daniilmurga/netology_hm/assets/17860426/d9f3e439-9698-49dc-809c-bb9a1ed432ac)
+Задание 1.
+![Снимок экрана 2024-03-25 в 17 31 51](https://github.com/daniilmurga/netology_hm/assets/17860426/d9f3e439-9698-49dc-809c-bb9a1ed432ac)
 ![Снимок экрана 2024-03-25 в 17 32 19](https://github.com/daniilmurga/netology_hm/assets/17860426/aedb9f98-a0af-4511-87a1-2cbd9c890b50)
 Задание 2.
 ![Снимок экрана 2024-03-25 в 17 38 48](https://github.com/daniilmurga/netology_hm/assets/17860426/a9d107cb-4d15-4731-af04-63223e02475a)
